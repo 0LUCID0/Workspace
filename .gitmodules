@@ -1,0 +1,6 @@
+[submodule "erudites-dev/lucid-study-java"]
+	path = erudites-dev/lucid-study-java
+	url = https://github.com/erudites-dev/lucid-study-java.git
+[submodule "erudites-dev/lucid-study-mod"]
+	path = erudites-dev/lucid-study-mod
+	url = https://github.com/erudites-dev/lucid-study-mod.git
