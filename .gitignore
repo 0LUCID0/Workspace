@@ -1,0 +1,11 @@
+﻿# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+# Build & deps
+**/build/
+**/dist/
+**/out/
+**/node_modules/
+**/.venv/
+**/__pycache__/
