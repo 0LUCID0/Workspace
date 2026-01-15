@@ -4,3 +4,6 @@
 [submodule "erudites-dev/lucid-study-mod"]
 	path = erudites-dev/lucid-study-mod
 	url = https://github.com/erudites-dev/lucid-study-mod.git
+[submodule "projects/buildpali"]
+	path = projects/buildpali
+	url = https://github.com/0LUCID0/BuildPali.git
