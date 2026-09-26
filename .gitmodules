@@ -7,3 +7,6 @@
 [submodule "projects/buildpali"]
 	path = projects/buildpali
 	url = https://github.com/0LUCID0/BuildPali.git
+[submodule "projects/disconnected.1.n.n"]
+	path = projects/disconnected.1.n.n
+	url = https://github.com/0LUCID0/disconnected.1.n.n.git
