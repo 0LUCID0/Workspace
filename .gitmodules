@@ -10,3 +10,6 @@
 [submodule "projects/disconnected.1.n.n"]
 	path = projects/disconnected.1.n.n
 	url = https://github.com/0LUCID0/disconnected.1.n.n.git
+[submodule "projects/Video_Copy_Killer"]
+	path = projects/Video_Copy_Killer
+	url = https://github.com/0LUCID0/Video_Copy_killer.git
