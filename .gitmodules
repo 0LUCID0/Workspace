@@ -13,3 +13,6 @@
 [submodule "projects/Video_Copy_Killer"]
 	path = projects/Video_Copy_Killer
 	url = https://github.com/0LUCID0/Video_Copy_killer.git
+[submodule "projects/Sulfur_Frame"]
+	path = projects/Sulfur_Frame
+	url = https://github.com/0LUCID0/Sulfur_Frame.git
