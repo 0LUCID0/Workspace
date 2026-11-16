@@ -16,3 +16,6 @@
 [submodule "projects/Sulfur_Frame"]
 	path = projects/Sulfur_Frame
 	url = https://github.com/0LUCID0/Sulfur_Frame.git
+[submodule "projects/twenty"]
+	path = projects/twenty
+	url = https://github.com/0LUCID0/twenty.git
