@@ -11,3 +11,5 @@ Thumbs.db
 **/__pycache__/
 # Ignore temp test files
 practices/**/test.*
+# lucid-study-mod: local-only test project (its GitHub repo is gone)
+erudites-dev/lucid-study-mod/
