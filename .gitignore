@@ -13,3 +13,5 @@ Thumbs.db
 practices/**/test.*
 # lucid-study-mod: local-only test project (its GitHub repo is gone)
 erudites-dev/lucid-study-mod/
+# lucid-study-java: local-only (its GitHub repo is gone)
+erudites-dev/lucid-study-java/
